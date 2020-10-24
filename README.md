@@ -12,12 +12,7 @@ masterson.kendall@gmail.com
 
 <h2> Description </h2>
 
-This is a simple coding quiz to test your knowledge! 
-
-Table of Contents
-
-- [Installation Instructions](#installation-instructions)
-- [Usage Information](#usage-information)
+This is a simple coding quiz to test your knowledge! You have to race the timer! If you get an answer wrong you will lose time. At the end of the quiz you can enter your name to addd to the leaderboard. 
 
 
 
