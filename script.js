@@ -369,7 +369,7 @@ $(document).ready(function () {
     $(".aTen-button").click(function () {
       var correctAnswer = $(this).data("answer");
       if (correctAnswer === 0) {
-        alert("you got the right answer");
+        alert("CORRECT!");
         pauseTimer();
         addInitials();
       } else {

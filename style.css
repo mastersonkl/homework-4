@@ -3,7 +3,6 @@ text-align: center;
 color: orangered;
 font-weight: 800px;
 
-
 }
 
 .startBtn {
@@ -23,9 +22,21 @@ font-weight: 800px;
 
 .cq {
     background-color: rgb(178, 152, 251);
+    padding: 50px;
+    color: white;
+    text-align: center;
+    font-family: ""Arial, Helvetica, sans-serif;
 }
 
 h3 {
     color: white;
     font-size: x-large;
 }
+
+.submitBtn {
+    width: 80px;
+    height: 30px;
+    background-color: orangered;
+    color: white;
+    font-size: x-large;
+  }
