@@ -1,24 +1,29 @@
 # homework-4
 
-## User Story
+<h2> Code Quiz </h2> 
 
-```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+<h2> Author </h2>
 
-## Acceptance Criteria
+Kendall Masterson
 
-```
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
+https://github.com/mastersonkl
+
+masterson.kendall@gmail.com
+
+<h2> Description </h2>
+
+This is a simple coding quiz to test your knowledge! 
+
+Table of Contents
+
+- [Installation Instructions](#installation-instructions)
+- [Usage Information](#usage-information)
+
+
+
+## Installation Instructions
+
+You can install this program by cloning it to your local machine by running `git clone`.
+
+Here is a photo of the start screen. 
+![](./img/codeq.png)
